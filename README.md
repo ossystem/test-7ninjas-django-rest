@@ -22,3 +22,5 @@ And finally run server:
 ```
 python manage.py runserver
 ```
+
+API root will be available at http://localhost:8000/api/
